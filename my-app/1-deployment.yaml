@@ -18,6 +18,6 @@ spec:
     spec: 
       containers:
       - name: nginx
-        image: archeious/nginx:v0.1.1
+        image: archeious/nginx:v0.2.0
         ports:
           - containerPort: 80
